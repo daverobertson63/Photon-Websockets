@@ -1,14 +1,14 @@
 spark_websockets
 ================
 
-Websockets implementation for Spark Core, ported from Arduino WebSocketClient
+Websockets implementation for Particle Photon, ported from Arduino WebSocketClient
 
 
 
 How to use :
 ==============
 ```
-#include Spark-Websockets/Spark-Websockets.h
+#include Spark-Websockets/Particle-Websockets.h
 
 WebSocketClient client;
 
