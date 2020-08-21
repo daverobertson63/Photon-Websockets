@@ -1,4 +1,4 @@
-spark_websockets
+Photon_websockets
 ================
 
 Websockets implementation for Particle Photon, ported from Arduino WebSocketClient
@@ -8,7 +8,7 @@ Websockets implementation for Particle Photon, ported from Arduino WebSocketClie
 How to use :
 ==============
 ```
-#include Spark-Websockets/Particle-Websockets.h
+#include Photon-Websockets/Particle-Websockets.h
 
 WebSocketClient client;
 
